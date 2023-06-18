@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Pre-requisite
+1. Make sure you have installed Node and NPM. My version of Node is v20.3.0, and NPM is 9.6.7
+2. Replace the `REACT_APP_RAPID_API_KEY` in `.env` with your API_RAPID_KEY. You can obtain the key at this link https://rapidapi.com/ytdlfree/api/youtube-v31
+3. Please install all dependencies with the command `npm install`
+
 ## Available Scripts
 
 In the project directory, you can run:
