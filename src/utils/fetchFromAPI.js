@@ -8,7 +8,7 @@ const options = {
     regionCode: 'ID',
   },
   headers: {
-    'X-RapidAPI-Key': 'd21ff569abmsh5af66e1197cf92ep1ac69fjsn83b41ed9578d',
+    'X-RapidAPI-Key': process.env.REACT_APP_RAPID_API_KEY,
     'X-RapidAPI-Host': 'youtube-v31.p.rapidapi.com',
   },
 };
