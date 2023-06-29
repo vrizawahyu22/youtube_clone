@@ -2,7 +2,8 @@
 
 Cloning youtube with user interface 2023. The following is the result:
 
-<img width="1508" alt="Screenshot 2023-06-29 at 10 31 30" src="https://github.com/vrizawahyu22/youtube_clone/assets/32611433/7b957efa-32a1-479c-a756-4c89dcb6810c">
+<img width="1512" alt="Screenshot 2023-06-29 at 10 49 51" src="https://github.com/vrizawahyu22/youtube_clone/assets/32611433/e6441b83-8218-4ad7-bde8-e46ff5f277b2">
+
 
 ## Pre-requisite
 1. Make sure you have installed Node and NPM. My version of Node is v20.3.0, and NPM is 9.6.7
