@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# Youtube Clone 2023 User Interface with React JS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Cloning youtube with user interface 2023. The following is the result:
+
+<img width="1508" alt="Screenshot 2023-06-29 at 10 31 30" src="https://github.com/vrizawahyu22/youtube_clone/assets/32611433/7b957efa-32a1-479c-a756-4c89dcb6810c">
 
 ## Pre-requisite
 1. Make sure you have installed Node and NPM. My version of Node is v20.3.0, and NPM is 9.6.7
@@ -73,3 +75,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+## Acknowledgement
+I would appreciate it to https://github.com/adrianhajdin/project_youtube_clone because the original of my project is based on 
+https://github.com/adrianhajdin project.
